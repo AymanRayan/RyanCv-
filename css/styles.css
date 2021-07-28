@@ -1,0 +1,149 @@
+a {
+  color: #351f39;
+  text-decoration: none;
+  }
+a:hover{
+  color: #e4fbff;
+}
+body {
+  background-image: radial-gradient(transparent, mistyrose), url("background1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: top;
+  text-align: center;
+  font-family: 'Mulish', sans-serif;
+  font-size: 150%;
+  color: #414141;
+}
+
+h1 {
+  color: #4a1c40;
+  font-size: 5.625rem;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  color: #4a1c40;
+  font-size: 2.5rem;
+  font-family: 'Merriweather', serif;
+}
+
+h3 {
+  color: #583d72;
+}
+hr{
+border: none;
+border-top: dotted;
+border-color: gray;
+background-color: white;
+border-width: 15px;
+width: 10%;
+}
+p{
+  line-height: 2;
+}
+
+.bottom-container{
+  background-color: #ffabe1;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  }
+
+.btn{
+  background: #350b40;
+  background-image: -webkit-linear-gradient(top, #350b40, #ad6c80);
+  background-image: -moz-linear-gradient(top, #350b40, #ad6c80);
+  background-image: -ms-linear-gradient(top, #350b40, #ad6c80);
+  background-image: -o-linear-gradient(top, #350b40, #ad6c80);
+  background-image: linear-gradient(to bottom, #350b40, #ad6c80);
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: 'Mulish', sans-serif;
+  color: #f5eff7;
+  font-size: 27px;
+  padding: 15px 15px 15px 15px;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background: #822659;
+  background-image: -webkit-linear-gradient(top, #822659, #845ec2);
+  background-image: -moz-linear-gradient(top, #822659, #845ec2);
+  background-image: -ms-linear-gradient(top, #822659, #845ec2);
+  background-image: -o-linear-gradient(top, #822659, #845ec2);
+  background-image: linear-gradient(to bottom, #822659, #845ec2);
+  text-decoration: none;
+}
+
+.cartoon-pic1 {
+  width: 100px;
+  height: 200px;
+  position: absolute;
+  top: 20px;
+  right: 150px;
+}
+
+.cartoon-pic2 {
+  width: 100px;
+  height: 200px;
+  position: absolute;
+  top: 80px;
+  left: 150px;
+}
+.civil {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.copy-rights{
+  color: #e4fbff;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.contact-me{
+  margin: 10px auto 30px auto;
+}
+.contact-message{
+  width: 50%;
+  margin:40px auto 60px;
+}
+.footer-link{
+  font-size: 1.2rem;
+  padding: 10px;
+}
+.middle-container{
+  margin: 200px 0;
+}
+.profile{
+  margin: 0 auto 0 auto;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.soft-skills {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.sub-title {
+  font-weight: normal;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+
+}
+.top-container {
+  margin: 70 auto 0 auto;
+}
+
+.workers {
+  width: 650px;
+  height: 400px;
+  margin: 0 auto 0 auto;
+}
